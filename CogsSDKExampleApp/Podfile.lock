@@ -1,0 +1,18 @@
+PODS:
+  - CogsSDK (1.0.15):
+    - CryptoSwift
+    - Starscream (~> 2.0.3)
+  - CryptoSwift (0.6.9)
+  - Starscream (2.0.4)
+
+DEPENDENCIES:
+  - CogsSDK
+
+SPEC CHECKSUMS:
+  CogsSDK: 9e4727f556c51af5bda0e67ead2c2964e715fd19
+  CryptoSwift: a22f6ba238e9ce4d26ee7bf45b9ed82e7122d4a0
+  Starscream: df5974ee928b157c8eda8af8de7c620276b7dfcc
+
+PODFILE CHECKSUM: 8bf647a2a2f6f671f1c021b7d64e3143afddc09b
+
+COCOAPODS: 1.2.1
